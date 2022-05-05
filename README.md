@@ -1,2 +1,2 @@
 # github
-This is yazhini
+This is my first summer workshop project
